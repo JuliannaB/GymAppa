@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymApp", "GymApp\GymApp.csproj", "{34938239-91DD-4056-BA69-E6FD4A375BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGym", "ConsoleGym\ConsoleGym.csproj", "{99A12746-7F90-4ED3-B413-A16D33B46697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34938239-91DD-4056-BA69-E6FD4A375BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34938239-91DD-4056-BA69-E6FD4A375BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34938239-91DD-4056-BA69-E6FD4A375BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34938239-91DD-4056-BA69-E6FD4A375BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A12746-7F90-4ED3-B413-A16D33B46697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A12746-7F90-4ED3-B413-A16D33B46697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A12746-7F90-4ED3-B413-A16D33B46697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A12746-7F90-4ED3-B413-A16D33B46697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
